@@ -9,4 +9,4 @@
 
 # STATS
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paepckehh) ![stats](https://github-readme-stats.vercel.app/api?username=paepckehh)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paepckehh)](https://paepcke.de) [![stats](https://github-readme-stats.vercel.app/api?username=paepckehh)](https://paepcke.de)
