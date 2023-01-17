@@ -4,3 +4,5 @@
 * hq: IE6RYZ-S3-DLPR3X-RH-QNPPWOXXCB
 * signify: RWT0z7As1suN0oL5ia6M3O47pYHcttgaMGW4NpOBRvJ6TV0l1HCkP26Q
 * smime / (r)age: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPCNVNaHf5m/3cO+2s4xV+IaDgTtRXwYOvGTnTPCHMR6
+https://github-readme-stats.vercel.app/api?username=paepckehh
+https://github-readme-stats.vercel.app/api/top-langs/?username=paepckehh
