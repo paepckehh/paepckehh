@@ -1,5 +1,3 @@
-# CONTACT
-
 * site:   [paepcke.de](https://paepcke.de)
 * email:  conact@paepcke.de
 * social: [@paepcke@infosec.exchange](https://infosec.exchange/@paepcke)
